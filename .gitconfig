@@ -1,0 +1,5 @@
+[user]
+	email = into-ui@program
+	name = into-ui
+
+# git config --local include.path ../.gitconfig
